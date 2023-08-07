@@ -5,7 +5,7 @@ export default function Home() {
   return (
       <>
         <div className=" flex mx-auto max-w-sm md:max-w-none md:px-4 justify-center items-center">
-          <div className="h-[900px]  flex flex-col gap-7">
+          <div className="  mt-8 flex flex-col gap-7">
             <h1 className="text-3xl md:text-4xl font-thin text-center max-w-[25ch] mx-auto leading-snug mt-6">Reliable, efficient delivery <span className="text-semibold">Powered by Technology</span></h1>
             <p className="text-center text-grayish-blue mx-auto text-lg max-w-[56ch]">Our Artificial Intelligence powered tools use millions of project data points to ensure that your project
               is successful</p>
